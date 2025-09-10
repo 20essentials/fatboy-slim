@@ -1,0 +1,23 @@
+export const nameBand = 'FATBOY SLIM';
+export let nameSongs = [
+	"RIGHT HERE, RIGHT NOW", /*1*/
+	"THE ROCKAFELLER SKANK", /*2*/
+	"YA MAMA", /*3*/
+	"GANGSTER TRIPPIN'", /*4*/
+	"THE JOURNEY", /*5*/
+	"THE JOKER", /*6*/
+	"DON'T LET THE MAN", /*7*/
+	"PUT IT BACK TOGETHER", /*8*/
+	"LONG WAY FROM HOME", /*9*/
+	"THE WORLD WENT DOWN", /*10*/
+	"DON'T FORGET YOUR TEETH", /*11*/
+	"DROP THE HATE", /*12*/
+	"LOVE LIFE", /*13*/
+	"KALIFORNIA", /*14*/
+	"SOUL SURFING", /*15*/
+	"ACID 8000", /*16*/
+	"YOU'RE NOT FROM BRIGHTON", /*17*/
+	"PUSH AND SHOVE", /*18*/
+	"DEMONS", /*19*/
+	"EAT, SLEEP, RAVE, REPEAT", /*20*/
+]
